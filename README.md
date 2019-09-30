@@ -2,8 +2,11 @@
 Here's some info, primarily for the people who have not been through the Glastonbury ticket buying fiasco before.
 ## TL;DR
 Thursday, 3rd Oct @ 6pm, start visiting this website to reserve a ticket: [https://glastonbury.seetickets.com](https://glastonbury.seetickets.com/content/extras)
+
 You can buy 6 tickets every time you get through. All groups have 5 people, **so fill the 6th slot with someone from another group**.
+
 Announce when you get tickets to the thread (and tell us who your 6th person was.)
+
 Get tickets for London Wembley or London Vic bus station, Wed or Thursday whatever time you can get.
 Make sure you have about £650 on the card you're using to pay. Ask to borrow someone's card details if you've not got it.
 # In Detail

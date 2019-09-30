@@ -13,7 +13,9 @@ Make sure you have about £650 on the card you're using to pay. Ask to borrow so
 # In Detail
 ## How it Works
 The Glastonbury ticket buying page lets you reserve 6 tickets at a time. The aim is to keep refreshing the ticket URL until you get through and are able to buy tickets for your group. If you or someone else already managed to get your group's tickets, keep going, and try to buy tickets for another group.
+
 *If you get a group's tickets, announce it in the thread (and who your 6th person was), so everyone knows that they should move on to another group.*
+
 ## When do tickets go on sale?
 - First round: 6pm on Thursday 3rd Oct.
 

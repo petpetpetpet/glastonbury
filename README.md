@@ -8,7 +8,9 @@ You can buy 6 tickets every time you get through. All groups have 5 people, **so
 Announce when you get tickets to the thread (and tell us who your 6th person was.)
 
 Get tickets for London Wembley or London Vic bus station, Wed or Thursday whatever time you can get.
-Make sure you have about £650 on the card you're using to pay. Ask to borrow someone's card details if you've not got it.
+Make sure you have about £650 on the card you're using to pay. Ask to borrow someone's card details if you've not got it. 
+
+**NB: People outside of the UK must use a Visa or Mastercard credit (not debit) card. Inside the UK debit cards are fine**
 
 # In Detail
 ## How it Works

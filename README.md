@@ -32,7 +32,7 @@ Most of the time, when you try to visit the ticket purchase page, you'll get no 
 
 If you get through prepare to have to do the following under time pressure: choose a bus station, departure time, enter your group + 1 person's numbers and postcodes, and your card details to reserve the tickets. Breathe.
 
-Coach tickets will probably sell out in 5 minutes.
+Coach tickets will probably sell out in 5 minutes. Stay focused, read everything on the page and get it done. Remember we have almost a year to plan after, so don't wait for people to confirm a suitable bus time or whatever. Be decisive.
 
 ## Which Coach Stop to Choose?
 There are two stops in London:

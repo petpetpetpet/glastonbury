@@ -33,6 +33,8 @@ The site will probably freeze up. Repeatedly show you garbage, or otherwise seem
 Using an actual computer is preferred, its much easier to copy and paste from the sheet into the form.
 That being said, we've gotten tickets through people's phones before, it's just more challenging to switch to google apps, copy a number, then switch back to safari to paste it.
 
+# Multiple Browser Tabs
+Don't use multiple tabs in the same browser. They might interfere with one another.
 
 # Glamping etc
 This happens later on. Process is basically the same. 

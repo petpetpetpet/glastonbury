@@ -35,4 +35,4 @@ That being said, we've gotten tickets through people's phones before, it's just 
 
 
 # Glamping etc
-This happens later on in the day. Process is basically the same. 
+This happens later on. Process is basically the same. 

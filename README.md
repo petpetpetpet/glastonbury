@@ -10,7 +10,7 @@ Here's the main bits in point form:
     - Work out which card, and if you need to borrow a card number from someone sort it out in advance.
 - Dates and Times: 
     - 9am GMT - 6-Nov-2022.
-- Do not: Shit yourself.
+- Do not: Shit yourself. Use a seat cover if necessary.
 
 # How Does it Work
 ANYONE can head to https://glastonbury.seetickets.com and try for tickets, as many times as they like. IF someone is lucky enough to get through, they will be presented with a form that lets them enter up to SIX registration numbers and post codes. They do not need to enter their own.

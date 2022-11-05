@@ -1,50 +1,36 @@
-# Glastonbury Coach Ticket Info
-Here's some info, primarily for the people who have not been through the Glastonbury ticket buying fiasco before.
-## TL;DR
-Thursday, 3rd Oct @ 6pm, start visiting this website to reserve a ticket: [https://glastonbury.seetickets.com](https://glastonbury.seetickets.com/content/extras)
+# Glastonbury Ticket Info
+Here's the main bits in point form:
+- The URL where tickets will be sold: https://glastonbury.seetickets.com
+- The URL of our spreadsheet: https://docs.google.com/spreadsheets/d/1Q3bjpcGDEczZPvBhhwnJRlhvdF3kyfzp66nDWggzY7Q/edit?usp=sharing
+- Payment:
+    - Credit Card: VISA or MASTERCARD only.
+    - Debit: UK cards only. If you don't have one, use a credit card.
+    - You will need £50 on your card per person you register, so for a group of 6, if you get through, you will need to pay £300.
+    - Obviously you get paid back right after.
+    - Work out which card, and if you need to borrow a card number from someone sort it out in advance.
+- Dates and Times: 
+    - 9am GMT - 6-Nov-2022.
 
-You can buy 6 tickets every time you get through. All groups have 5 people, **so fill the 6th slot with someone from another group**.
+# How Does it Work
+ANYONE can head to https://glastonbury.seetickets.com and try for tickets, as many times as they like. IF someone is lucky enough to get through, they will be presented with a form that lets them enter up to SIX registration numbers and post codes. They do not need to enter their own.
 
-Announce when you get tickets to the thread (and tell us who your 6th person was.)
+*Process*:
+1. Keep refreshing the ticket site until you get in.
+2. IF YOU GET THROUGH - Enter the registration numbers from your group. You have 5 minutes to do this.
+3. Proceed to payment. Pay the £50 deposit for each person.
+4. Once paid ANNOUNCE TO THE WHATSAPP GROUP that you have done this. 
+5. Now return to trying for tickets, and if you get through, get tickets for another group.
 
-Get tickets for London Wembley or London Vic bus station, Wed or Thursday whatever time you can get.
-Make sure you have about £650 on the card you're using to pay. Ask to borrow someone's card details if you've not got it. 
+- 4 is important - it lets everyone know that your group is sorted and that people should try for other groups.
+- You can still get through and buy tickets for other groups even if you bought your own group tickets. You can put anyone's reg in.
 
-**NB: People outside of the UK must use a Visa or Mastercard credit (not debit) card. Inside the UK debit cards are fine**
+# What to Expect
+The site will probably freeze up. Repeatedly show you garbage, or otherwise seem like it aint working. This is normal. Just keep trying. Stay calm, and dont panic else you'll put in the wrong numbers or something.
 
-# In Detail
-## How it Works
-The Glastonbury ticket buying page lets you reserve 6 tickets at a time. The aim is to keep refreshing the ticket URL until you get through and are able to buy tickets for your group. If you or someone else already managed to get your group's tickets, keep going, and try to buy tickets for another group.
+# Phone or Laptop
+Using an actual computer is preferred, its much easier to copy and paste from the sheet into the form.
+That being said, we've gotten tickets through people's phones before, it's just more challenging to switch to google apps, copy a number, then switch back to safari to paste it.
 
-*If you get a group's tickets, announce it in the thread (and who your 6th person was), so everyone knows that they should move on to another group.*
 
-## When do tickets go on sale?
-- First round: 6pm on Thursday 3rd Oct.
-
-- Second round: 9am on Sunday 6th Oct.
-
-  Be on front of some sort of internet connected device 5-10 mins before those times so you're ready to start the scramble.
-
-## Why do our groups only have 5 people
-Because there were 20 of us. If you get through **use your sixth slot to put in a person of your choice from one of the other groups.** You might want to decide who this is in advance to reduce your task load while on the ticket page. 
-## What to Expect
-Most of the time, when you try to visit the ticket purchase page, you'll get no response, or a holding page. Don't despair. Keep refreshing, this is normal.
-
-If you get through prepare to have to do the following under time pressure: choose a bus station, departure time, enter your group + 1 person's numbers and postcodes, and your card details to reserve the tickets. Breathe.
-
-Coach tickets will probably sell out in 5 minutes. Stay focused, read everything on the page and get it done. Remember we have almost a year to plan after, so don't wait for people to confirm a suitable bus time or whatever. Be decisive.
-
-## Which Coach Stop to Choose?
-There are two stops in London:
-- London Wembley
-- London Victoria
-Either are fine. Choose whichever you see first. Only backtrack if the station you choose has no reasonable bus times left.
-## Single or Return
-Decide with your group, otherwise: Prioritise single, check return if nothing's available.
-## Which Time to Choose
-Decide this with your group. Otherwise: Prioritise Wed afternoon, with Thursday being completely acceptable.
-The time slots disappear super fast, so it's sort of a take what you can get situation. Trying to backtrack and browse other timeslots will waste time and lose you more slots - so it's good to decide in advance with your group what to target.
-## Payment
-Have a card with £650 available on it. (£50 ticket deposit + £30-£54 (it varies year on year) coach ticket multiplied by 6 people.) You'll need to pay for everyone's deposit and bus ticket if you get through (historically everyone has paid us back their bits within the same hour.)
-## Phone or Laptop?
-It's easier to copy and paste from the spreadsheet into the reservation page using a laptop. Phone does work though, and we've gotten tickets that way before (so if you cannot be at a computer on the day, use your phone.)
+# Glamping etc
+This happens later on in the day. Process is basically the same. 

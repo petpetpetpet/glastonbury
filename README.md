@@ -36,3 +36,8 @@ That being said, we've gotten tickets through people's phones before, it's just 
 
 # Glamping etc
 This happens later on. Process is basically the same. 
+
+# What Happens After
+
+- We figure out who wants to do posh camping, wait for the balloting dates for posh camping slots to be announced, and try for that for the people who want it.
+- Assuming [Armageddon](https://goo.gl/maps/XjXR2WYYmK8SEna6A) is delayed for another year, then sometime in the late spring you will be sent an email requesting payment for the remaining £290. If you do not pay, the ticket will be forfeit. Shortly after, ticket resales happen where they sell off the forfeit tickets.
